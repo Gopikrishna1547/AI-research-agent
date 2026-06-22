@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+tavily-python
+transformers
+torch
+streamlit
+reportlab
+python-dotenv
+requests
+beautifulsoup4
+pytest
